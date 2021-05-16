@@ -1,4 +1,4 @@
-package com.example.testingproject.eurekaserver;
+package com.spring.microservices.eurekaserver;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
